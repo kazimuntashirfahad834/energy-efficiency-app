@@ -1,0 +1,4 @@
+libfreetype6
+libfreetype6-dev
+fontconfig
+libpng-dev
